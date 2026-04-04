@@ -1,0 +1,17 @@
+# Árbol 2 - Temperaturas Semanales (°C)
+# Registro de temperaturas de dos semanas en la Amazonía
+# Autor: Práctica #04 - Estructura de Datos UEA
+28
+24
+32
+21
+26
+30
+35
+18
+23
+25
+27
+29
+31
+34
