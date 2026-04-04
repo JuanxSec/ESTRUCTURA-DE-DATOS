@@ -1,0 +1,17 @@
+# Árbol 1 - Notas de Estudiantes
+# Cada número representa una calificación sobre 10
+# Autor: Práctica #04 - Estructura de Datos UEA
+75
+50
+90
+30
+60
+85
+95
+20
+40
+55
+70
+80
+92
+98
